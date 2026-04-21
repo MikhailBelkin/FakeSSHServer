@@ -57,7 +57,8 @@ No database. No config files. Single Python script.
 
 ```bash
 git clone https://github.com/MikhailBelkin/FakeSSHServer.git
-cd blackhole-server
+cd FakeSSHServer
+
 
 # Ports below 1024 require root
 sudo python3 fakesshserver.py
