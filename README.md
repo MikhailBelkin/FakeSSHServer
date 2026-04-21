@@ -56,7 +56,7 @@ No database. No config files. Single Python script.
 ## Quick start
 
 ```bash
-git clone https://github.com/MikhailBelkin/blackhole-server.git
+git clone https://github.com/MikhailBelkin/FakeSSHServer.git
 cd blackhole-server
 
 # Ports below 1024 require root
